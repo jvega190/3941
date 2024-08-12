@@ -4,10 +4,10 @@
 	<display-template>/templates/web/entry.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<placeInNav>true</placeInNav>
+	<placeInNav>false</placeInNav>
 	<file-name>index.xml</file-name>
-	<internal-name>Home Page</internal-name>
-	<orderDefault_f>3000</orderDefault_f>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
 	<body_html>&lt;h1&gt;Welcome to Your CrafterCMS Project.&lt;/h1&gt;
 &lt;p&gt;This project blueprint is the equivalent of a Hello World. It's a blank slate on which you can build your own digital experience.&lt;/p&gt;
 &lt;ul&gt;
@@ -25,30 +25,56 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2024-08-12T15:47:28.600Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-12T15:47:28.600Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-08-12T15:48:42.085Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-08-12T15:48:42.085Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
-	<text_s>Super text</text_s>
+	<text_s>text with changes</text_s>
 	<checkbox_b>false</checkbox_b>
 	<number_i>50</number_i>
-	<textArea_t>Super textarea</textArea_t>
+	<textArea_t>textarea with changes</textArea_t>
 	<checkboxGroup_o>	<item>	<key>one</key>
 	<value_smv>one</value_smv>
 	</item>	<item>	<key>three</key>
 	<value_smv>three</value_smv>
+	</item>	<item>	<key>two</key>
+	<value_smv>two</value_smv>
+	</item>	<item>	<key>four</key>
+	<value_smv>four</value_smv>
 	</item></checkboxGroup_o>
-	<itemSelector_o item-list="true">	<item>	<key>/site/components/b56d87b2-72d0-8951-e027-afe7a04ec71d.xml</key>
+	<itemSelector_o item-list="true">	<item>	<key>/site/components/4588d4f9-cf21-c809-10d4-e585e10d4e72.xml</key>
+	<value>Test2</value>
+	<include>/site/components/4588d4f9-cf21-c809-10d4-e585e10d4e72.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/b56d87b2-72d0-8951-e027-afe7a04ec71d.xml</key>
 	<value>Test</value>
 	<include>/site/components/b56d87b2-72d0-8951-e027-afe7a04ec71d.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item inline="true">	<key>c3444a87-8ff5-b910-3ec2-2214df9773d6</key>
+	<value>Test3</value>
+<component id="c3444a87-8ff5-b910-3ec2-2214df9773d6">
+	<content-type>/component/component</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c344</objectGroupId>
+	<objectId>c3444a87-8ff5-b910-3ec2-2214df9773d6</objectId>
+	<file-name>c3444a87-8ff5-b910-3ec2-2214df9773d6.xml</file-name>
+	<folder-name/>
+	<internal-name>Test3</internal-name>
+	<text_s>Test3</text_s>
+	<createdDate>2024-08-12T15:49:46.008Z</createdDate>
+	<createdDate_dt>2024-08-12T15:49:46.008Z</createdDate_dt>
+	<lastModifiedDate>2024-08-12T15:49:46.008Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-08-12T15:49:46.008Z</lastModifiedDate_dt>
+</component>
 	</item></itemSelector_o>
-	<image_s>/static-assets/item/images/2024/08/12/maxresdefault.jpg</image_s>
-	<video_s>/static-assets/videos/avideo.mp4</video_s>
+	<image_s>/static-assets/item/images/2024/08/12/nature-backgrounds.jpg</image_s>
+	<video_s>/static-assets/videos/samplevideo_1280x720_2mb.mp4</video_s>
 	<localeSelector/>
-	<rTE_html>&lt;p&gt;This is an RTE&lt;/p&gt;</rTE_html>
-	<time_to>15:47:28</time_to>
+	<rTE_html>&lt;p&gt;This is an RTE. We have a lot of options to customize it&lt;/p&gt;</rTE_html>
+	<time_to>11:47:28</time_to>
 	<time_to_tz>America/Costa_Rica</time_to_tz>
-	<dateTime_dt>2024-08-12T15:47:28.000Z</dateTime_dt>
+	<dateTime_dt>2024-08-16T11:47:28.000Z</dateTime_dt>
 	<dateTime_dt_tz>America/Costa_Rica</dateTime_dt_tz>
 </page>
