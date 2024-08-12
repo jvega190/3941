@@ -603,7 +603,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value></value>
+							<value>components</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -926,6 +926,54 @@
 						<property>
 							<name>repoPath</name>
 							<value>/static-assets/videos</value>
+								<type>string</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>components</type>
+					<id>components</id>
+					<title>Components</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>allowEmbedded</name>
+							<value>true</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>allowShared</name>
+							<value>true</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>enableBrowse</name>
+							<value>true</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>enableSearch</name>
+							<value>false</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>baseRepoPath</name>
+							<value>/site/components</value>
+								<type>string</type>
+						</property>
+						<property>
+							<name>baseBrowsePath</name>
+							<value>/site/components</value>
+								<type>string</type>
+						</property>
+						<property>
+							<name>contentTypes</name>
+							<value>/component/component</value>
+								<type>contentTypes</type>
+						</property>
+						<property>
+							<name>tags</name>
+							<value></value>
 								<type>string</type>
 						</property>
 					</properties>
