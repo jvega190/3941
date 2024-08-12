@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
 	<content-type>/page/anotherpage</content-type>
-	<display-template/>
-	<no-template-required>true</no-template-required>
+	<display-template>/templates/web/page.ftl</display-template>
+	<no-template-required>false</no-template-required>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>2272</objectGroupId>
 	<objectId>2272bfbb-0155-94e1-4bf1-584677916396</objectId>
@@ -17,6 +17,6 @@
 	</item></repgroup_o>
 	<createdDate>2024-08-12T17:59:43.630Z</createdDate>
 	<createdDate_dt>2024-08-12T17:59:43.630Z</createdDate_dt>
-	<lastModifiedDate>2024-08-12T17:59:43.630Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-12T17:59:43.630Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-08-12T18:07:30.955Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-08-12T18:07:30.955Z</lastModifiedDate_dt>
 </page>
