@@ -372,7 +372,7 @@
 					<properties>
 						<property>
 							<name>datasource</name>
-							<value></value>
+							<value>keyVal</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
