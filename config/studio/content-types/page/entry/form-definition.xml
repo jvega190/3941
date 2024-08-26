@@ -871,7 +871,7 @@
 						</property>
 						<property>
 							<name>options</name>
-							<value>[{&quot;key&quot;:&quot;one&quot;,&quot;value&quot;:&quot;one&quot;},{&quot;key&quot;:&quot;two&quot;,&quot;value&quot;:&quot;two&quot;},{&quot;key&quot;:&quot;three&quot;,&quot;value&quot;:&quot;three&quot;},{&quot;key&quot;:&quot;four&quot;,&quot;value&quot;:&quot;four&quot;}]</value>
+							<value>[{&quot;key&quot;:&quot;one&quot;,&quot;value&quot;:&quot;One&quot;},{&quot;key&quot;:&quot;two&quot;,&quot;value&quot;:&quot;Two&quot;},{&quot;key&quot;:&quot;three&quot;,&quot;value&quot;:&quot;Three&quot;},{&quot;key&quot;:&quot;four&quot;,&quot;value&quot;:&quot;Four&quot;}]</value>
 								<type>keyValueMap</type>
 						</property>
 						<property>
