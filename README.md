@@ -1,4 +1,4 @@
-Site with all of our current controls to test [#3941](https://github.com/craftercms/craftercms/issues/3941)
+Site with all of our current controls (studio version 4.2.x) to test [#3941](https://github.com/craftercms/craftercms/issues/3941)
 
 Homepage has all of the controls with some changes for the history to populate.
 
