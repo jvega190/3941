@@ -25,8 +25,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2024-08-27T22:43:04.272Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-27T22:43:04.272Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-08-27T22:47:51.630Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-08-27T22:47:51.630Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 	<text_s>text with changes</text_s>
@@ -52,6 +52,7 @@
 	<disableFlattening>false</disableFlattening>
 	</item>	<item inline="true">	<key>c3444a87-8ff5-b910-3ec2-2214df9773d6</key>
 	<value>Test3</value>
+	<disableFlattening>false</disableFlattening>
 <component id="c3444a87-8ff5-b910-3ec2-2214df9773d6">
 	<content-type>/component/component</content-type>
 	<display-template/>
@@ -68,7 +69,6 @@
 	<lastModifiedDate>2024-08-12T15:49:46.008Z</lastModifiedDate>
 	<lastModifiedDate_dt>2024-08-12T15:49:46.008Z</lastModifiedDate_dt>
 </component>
-	<disableFlattening>false</disableFlattening>
 	</item></itemSelector_o>
 	<image_s>/static-assets/item/images/2024/08/12/nature-backgrounds.jpg</image_s>
 	<video_s>/static-assets/videos/samplevideo_1280x720_2mb.mp4</video_s>
@@ -79,4 +79,9 @@
 	<dateTime_dt>2024-08-16T11:47:28.000Z</dateTime_dt>
 	<dateTime_dt_tz>America/Costa_Rica</dateTime_dt_tz>
 	<dropdown_s>two</dropdown_s>
+	<rep_group_o item-list="true">	<item>	<title_s>January</title_s>
+	<body_html>&lt;p&gt;January (Jan.) is the&amp;nbsp;first month of the year in the Julian and Gregorian calendars&lt;/p&gt;</body_html>
+	</item>	<item>	<title_s>February</title_s>
+	<body_html>&lt;p&gt;February is the second month of the year in the Julian and Gregorian calendars.&lt;/p&gt;</body_html>
+	</item></rep_group_o>
 </page>
