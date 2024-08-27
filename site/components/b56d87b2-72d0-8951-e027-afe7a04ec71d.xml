@@ -6,12 +6,12 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>b56d</objectGroupId>
 	<objectId>b56d87b2-72d0-8951-e027-afe7a04ec71d</objectId>
-	<internal-name>Test</internal-name>
-	<text_s>Test</text_s>
+	<internal-name>TestE</internal-name>
+	<text_s>TestE</text_s>
 	<file-name>b56d87b2-72d0-8951-e027-afe7a04ec71d.xml</file-name>
 	<folder-name/>
 	<createdDate>2024-08-12T15:47:57.499Z</createdDate>
 	<createdDate_dt>2024-08-12T15:47:57.499Z</createdDate_dt>
-	<lastModifiedDate>2024-08-12T15:47:57.499Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-12T15:47:57.499Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-08-27T22:35:25.646Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-08-27T22:35:25.646Z</lastModifiedDate_dt>
 </component>
