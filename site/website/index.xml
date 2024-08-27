@@ -25,8 +25,8 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2024-08-12T15:48:42.085Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-08-12T15:48:42.085Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-08-27T22:43:04.272Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-08-27T22:43:04.272Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 	<text_s>text with changes</text_s>
@@ -68,6 +68,7 @@
 	<lastModifiedDate>2024-08-12T15:49:46.008Z</lastModifiedDate>
 	<lastModifiedDate_dt>2024-08-12T15:49:46.008Z</lastModifiedDate_dt>
 </component>
+	<disableFlattening>false</disableFlattening>
 	</item></itemSelector_o>
 	<image_s>/static-assets/item/images/2024/08/12/nature-backgrounds.jpg</image_s>
 	<video_s>/static-assets/videos/samplevideo_1280x720_2mb.mp4</video_s>
@@ -77,4 +78,5 @@
 	<time_to_tz>America/Costa_Rica</time_to_tz>
 	<dateTime_dt>2024-08-16T11:47:28.000Z</dateTime_dt>
 	<dateTime_dt_tz>America/Costa_Rica</dateTime_dt_tz>
+	<dropdown_s>two</dropdown_s>
 </page>
