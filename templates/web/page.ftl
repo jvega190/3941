@@ -24,7 +24,7 @@
 	<body>
 		<@crafter.body_top/>
 		<main>
-			<h1>this is a page</h1>
+			<h1>this is a page (master branch)</h1>
 		</main>
 		<@crafter.body_bottom/>
 	</body>
